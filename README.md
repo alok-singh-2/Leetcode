@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alok-singh-2/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/alok-singh-2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -25,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/alok-singh-2/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 <!---LeetCode Topics End-->
