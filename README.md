@@ -21,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/alok-singh-2/Leetcode/tree/master/0443-string-compression) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+## Math
+|  |
+| ------- |
+| [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 <!---LeetCode Topics End-->
