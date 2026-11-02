@@ -15,6 +15,7 @@ public:
                 count = 0;
             }
         }
+//agar last for me bhi koei 1s ka count badh gya or last etring khatam 1 se hoga to else condition chalega nhi to iske liye yk baar aur result me count add kr diye.
 
       result = (result + count*(count+1)/2)%M;
        return (int)result;
