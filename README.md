@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/alok-singh-2/Leetcode/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/alok-singh-2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alok-singh-2/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/alok-singh-2/Leetcode/tree/master/0443-string-compression) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alok-singh-2/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok-singh-2/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
