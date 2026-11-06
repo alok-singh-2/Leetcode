@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/alok-singh-2/Leetcode/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alok-singh-2/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/alok-singh-2/Leetcode/tree/master/0456-132-pattern) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/alok-singh-2/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alok-singh-2/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
