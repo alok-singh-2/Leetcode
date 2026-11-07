@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/alok-singh-2/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok-singh-2/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/alok-singh-2/Leetcode/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/alok-singh-2/Leetcode/tree/master/0031-next-permutation) |
 | [0443-string-compression](https://github.com/alok-singh-2/Leetcode/tree/master/0443-string-compression) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alok-singh-2/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
