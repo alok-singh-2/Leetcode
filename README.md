@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alok-singh-2/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/alok-singh-2/Leetcode/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/alok-singh-2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alok-singh-2/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alok-singh-2/Leetcode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -83,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/alok-singh-2/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
