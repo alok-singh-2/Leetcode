@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/alok-singh-2/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alok-singh-2/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/alok-singh-2/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/alok-singh-2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alok-singh-2/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
