@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/alok-singh-2/Leetcode/tree/master/0443-string-compression) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/alok-singh-2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/alok-singh-2/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/alok-singh-2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
