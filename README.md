@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/alok-singh-2/Leetcode/tree/master/0443-string-compression) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/alok-singh-2/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/alok-singh-2/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alok-singh-2/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/alok-singh-2/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
