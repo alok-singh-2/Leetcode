@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/alok-singh-2/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alok-singh-2/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alok-singh-2/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/alok-singh-2/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/alok-singh-2/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/alok-singh-2/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/alok-singh-2/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alok-singh-2/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alok-singh-2/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alok-singh-2/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/alok-singh-2/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alok-singh-2/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/alok-singh-2/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
