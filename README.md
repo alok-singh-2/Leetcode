@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/alok-singh-2/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/alok-singh-2/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alok-singh-2/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok-singh-2/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/alok-singh-2/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/alok-singh-2/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alok-singh-2/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/alok-singh-2/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/alok-singh-2/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
